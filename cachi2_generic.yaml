@@ -1,0 +1,7 @@
+metadata:
+    version: "1.0"
+artifacts:
+    - download_url: https://github.com/cachito-testing/cachi2-generic/archive/refs/tags/v1.0.0.zip
+      checksums:
+        # this checksum does not match the file
+        sha256: 686997087583639c7ac2ee18230bb749bf74d1be0af91525cb9074bf03381981
